@@ -1,7 +1,7 @@
 {
   "name": "xxmi-study-vue-component",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "lib/xxmiStudyVueComponent.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
